@@ -47,10 +47,6 @@ CREATE TABLE `registered_users` (
 -- Dumping data for table `registered_users`
 --
 
-INSERT INTO `registered_users` (`id`, `user_name`, `first_name`, `last_name`, `password`, `email`, `gender`, `mobile`, `tenth_percentage`, `ten_plus_two_percentage`, `graduation_percentage`, `hobbies`) VALUES
-(1, 'ateevmishra1989@gmail.com', 'ateev', 'mishra', '15bfec3a7355105216739ea44', 'ateevmishra1989@gmail.com', 'Male', 0, '', '', '', ''),
-(2, 'ateevmishra1989@gmail.com', 'ateev', 'mishra', '15bfec3a7355105216739ea44', 'ateevmishra1989@gmail.com', 'Male', 0, '', '', '', ''),
-(3, 'ateevmishra1989@gmail.com', 'ateev', 'mishra', 'b270228c67506220b977a661c', 'ateevmishra1989@gmail.com', 'Male', 9876543210, '78', '87', '65', 'dwdgqwiudywqhdhwqdaqwdhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh');
 
 --
 -- Indexes for dumped tables
